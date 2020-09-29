@@ -40,9 +40,9 @@ main #search{
   margin-top: 2px;
 }
 
-#newSite{
+main > #newSite{
   background:#faebd7;
-  width: 300px;
+  width: 250px;
   height: 380px;
   margin: 25px auto;
   border-radius: 5px;
@@ -58,8 +58,9 @@ a{
 ul{
 list-style-type: none;
 padding: 0;
-width: 300px;
-height: 380px;
+width: 250px;
+height: 345px;
+margin: 0 auto;
   
 }
 li{
